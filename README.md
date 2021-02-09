@@ -61,6 +61,8 @@ _This text_ is Italic
 
 ![Markdown Logo](https://markdown-here.com/img/navbarLogin1.png)
 
+![alt text](navbarLogin1.png)
+
 <!-- Github Markdowns -->
 
 <!-- Code Blocks -->
